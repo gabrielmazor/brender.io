@@ -20,4 +20,4 @@ This site is archived for personal use and portfolio reference. No part of the c
 
 ---
 
-🕹 Originally live at [brender.webflow.io](https://gabrielmazor.github.io/webflow.io)
+🕹 Originally live at [gabrielmazor.github.io/brender.io](https://gabrielmazor.github.io/brender.io)
